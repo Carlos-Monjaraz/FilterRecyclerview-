@@ -6,4 +6,6 @@
 
     <dimen name="sizeTextTitle">16sp</dimen>
     <dimen name="sizeTextBody">14sp</dimen>
+
+    <dimen name="sizeImgEmpty">150dp</dimen>
 </resources>

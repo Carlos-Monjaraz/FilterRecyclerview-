@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MedicalTerms</string>
+
+    <string name="str_empty_list">Sin resultados para su búsqueda</string>
 </resources>
